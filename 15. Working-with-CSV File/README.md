@@ -4,3 +4,6 @@ iii. Typically,all records have an identical number of fields, and missing value
 
 >
 >For detailed CSV file parameters in python checkout at : https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+
+- [x] Completed task
+- [ ] Pending task
