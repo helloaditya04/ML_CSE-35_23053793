@@ -22,15 +22,15 @@ When you visit any website, your browser receives HTML code from the server. Thi
 
 # Complete Web Scraping Workflow
 1. Identify the target website and data you need
-        ↓
+        
 2. Inspect the page HTML (Right click → Inspect in browser)
-        ↓
+        
 3. Fetch the HTML using requests
-        ↓
+        
 4. Parse the HTML using BeautifulSoup
-        ↓
+        
 5. Locate and extract the required elements
-        ↓
+        
 6. Store the data in CSV / Database
-        ↓
+        
 7. Analyze the data using Pandas
