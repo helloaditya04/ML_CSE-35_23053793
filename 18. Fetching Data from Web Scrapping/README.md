@@ -21,12 +21,12 @@ When you visit any website, your browser receives HTML code from the server. Thi
 
 ## Common Use Cases
 
-- **Scraping product prices from e-commerce sites (Amazon, Flipkart)
-- **Collecting news headlines from news websites
-- **Extracting job listings from job portals (Naukri, LinkedIn)
-- **Gathering real estate data from property sites
-- **Pulling sports statistics or stock prices
-- **Research and academic data collection
+- Scraping product prices from e-commerce sites (Amazon, Flipkart)
+- Collecting news headlines from news websites
+- Extracting job listings from job portals (Naukri, LinkedIn)
+- Gathering real estate data from property sites
+- Pulling sports statistics or stock prices
+- Research and academic data collection
 
 ---
 
