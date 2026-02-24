@@ -63,6 +63,6 @@ You'd build a contingency table and run a chi-square test to see if the two are 
 
 ---
 
-## Why It Matters
+## Why It Matters ?
 
 Bivariate analysis is a foundational step in data analysis and machine learning. Before building models, analysts use it to identify which variables are related to the outcome they care about (e.g., which factors influence sales, disease risk, or customer churn). It helps separate meaningful signals from noise.
