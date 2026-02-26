@@ -11,4 +11,4 @@ Raw data is rarely in the perfect format for a model. Feature engineering bridge
 
 Good features = Better models. Feature engineering is often the most impactful step in the ML pipeline — more so than tuning hyperparameters or switching algorithms.
 
-It requires domain knowledge + creativity + experimentation to do wel
+It requires domain knowledge + creativity + experimentation to do well.
