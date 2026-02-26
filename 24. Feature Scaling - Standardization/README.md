@@ -1,1 +1,2 @@
 - [X] Feature Scaling is the process of normalizing or standardizing the range of independent variables (features) in your dataset so they are on a similar scale.
+- [X] 
