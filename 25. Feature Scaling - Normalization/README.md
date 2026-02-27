@@ -1,1 +1,2 @@
 - [X] Normalization is a part
+- [X] It
