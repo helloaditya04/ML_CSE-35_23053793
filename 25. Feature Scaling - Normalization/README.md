@@ -1,2 +1,3 @@
 - [X] Normalization is a part
 - [X] It
+- [X] Norm
