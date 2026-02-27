@@ -1,0 +1,1 @@
+- [X] Normalization is a part
