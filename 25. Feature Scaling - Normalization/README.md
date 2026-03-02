@@ -4,6 +4,8 @@
 
 **Normalization** is a data preprocessing technique used in machine learning to scale numerical features to a common range.
 
+The goal of Normalization is to change the values of numeric columns in the dataset to use a common scale, without distorting differences in the ranges of values or losing information.
+
 It helps:
 - Prevent certain features from dominating others
 - Improve model performance
