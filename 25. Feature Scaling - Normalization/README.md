@@ -96,6 +96,17 @@ X' = (X - Xmedian) / IQR
 
 ---
 
+### ✅ 5. Key Differences
+
+| Feature | Normalization | Standardization |
+|----------|---------------|----------------|
+| Range | Fixed range [0,1] | No fixed range |
+| Mean | Not centered at 0 | Mean becomes 0 |
+| Std Deviation | Not changed to 1 | Becomes 1 |
+| Outlier Sensitivity | Highly sensitive | Less sensitive |
+| Distribution Shape | Preserved | Makes data centered |
+| Best Used When | Data has known bounds | Data follows normal distribution |
+
 ## 🔹 Summary
 
 Normalization is an essential preprocessing step in machine learning that:
