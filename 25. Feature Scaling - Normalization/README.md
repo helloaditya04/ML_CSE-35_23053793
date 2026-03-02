@@ -42,7 +42,7 @@ Scales values to a fixed range (usually **[0,1]**).
 X' = (X - Xmin) / (Xmax - Xmin)
 ```
 
-##### For range [a, b]
+#### For range [a, b]
 ```
 X' = a + (((X - Xmin) * (b - a)) / (Xmax - Xmin))
 ```
