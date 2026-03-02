@@ -59,7 +59,7 @@ Centers data around zero.
 **Formula:**
 
 ```
-X' = (X - Mean) / (Xmax - Xmin)
+X' = (X - Xmean) / (Xmax - Xmin)
 ```
 
 ✔ Useful when centering data  
@@ -88,7 +88,7 @@ Uses Median and Interquartile Range (IQR).
 **Formula:**
 
 ```
-X' = (X - Median) / IQR
+X' = (X - Xmedian) / IQR
 ```
 
 ✔ Not affected by outliers  
