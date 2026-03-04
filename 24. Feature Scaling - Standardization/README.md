@@ -1,17 +1,15 @@
-# 📊 Feature Scaling & Standardization
-
-## 🔹 1. What is Feature Scaling?
+## 1. What is Feature Scaling?
 
 Feature Scaling is a preprocessing technique used in Machine Learning to bring all features (variables) to a similar scale or range.
 
-### ✅ Why is it important?
+### Why is it important?
 - Prevents features with large values from dominating smaller ones
 - Improves model performance
 - Helps algorithms converge faster
 
 ---
 
-## 🔹 2. What is Standardization?
+## 2. What is Standardization?
 
 Standardization (also called **Z-Score Normalization**) is a type of feature scaling.
 
@@ -22,9 +20,11 @@ It transforms data so that:
 
 ---
 
-## 🔹 Formula
+## Formula
 
+```
 Z = (X - μ) / σ
+```
 
 ### Where:
 - **X** = Original value  
@@ -34,7 +34,7 @@ Z = (X - μ) / σ
 
 ---
 
-## 🔹 Summary
+## Summary
 
 | Topic | Description |
 |-------|------------|
@@ -43,5 +43,5 @@ Z = (X - μ) / σ
 
 ---
 
-✔ Apply scaling after splitting the dataset into training and testing sets.  
-✔ Fit the scaler only on training data.
+Apply scaling after splitting the dataset into training and testing sets.  
+Fit the scaler only on training data.
